@@ -1,4 +1,4 @@
 # stepik_selenium
 course
 
-Менің аты-жөнім Belgisiz
+Менің аты-жөнім Dosik
